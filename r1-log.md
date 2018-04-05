@@ -11,10 +11,10 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 
 April 5, 2018 - Thursday
 
-Restarted/continued where I left off on FCC JS
-Switch statements with multiple id options
-More switch statements
-Return comparison operators immediately without if/else
-"return" stops function
+Restarted/continued where I left off on FCC JS,
+Switch statements with multiple id options,
+More switch statements,
+Return comparison operators immediately without if/else,
+"return" stops function.
 
 React course - pomodoro rounds: 3
